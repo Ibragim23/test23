@@ -17,12 +17,13 @@
 }
 
 .wrapper {
-	width: 1440px;
+	
 }
 
 /** block six **/
 
 .content_six {
+	
 	display: grid;
 	grid-template-rows:200px 180px 180px;
 	align-items:center;
@@ -90,10 +91,10 @@ span {
 /** block seven **/
 
 .content_seven {
-	width: 100%;
 	display: grid;
 	grid-template-rows: 150px 100px 300px;
 	background-image: url(../icons8-красная-окружность-96.png);
+	background-size: 100% 100%;
 }
 
 .market_products {
